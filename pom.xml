@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.242.195.196:8089/landmark/repository/laura-prac-releases/</url>
+	      <url>http://54.90.180.9:8089/landmark/repository/tesla-be-snapshots/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.242.195.196:8089/landmark/repository/laura-prac-snapshots/</url>
+	      <url>http://54.90.180.9:8089/landmark/repository/tesla-releases/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
